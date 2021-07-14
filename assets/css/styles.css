@@ -430,6 +430,11 @@ img {
     overflow: hidden;
 }
 
+.work__img p {
+    size: 15px;
+    padding: 10px;
+}
+
 .work__img {
     transition: 1s;
     cursor: pointer;
@@ -575,6 +580,9 @@ body.dark-theme {
     }
     .contact__container {
         justify-items: center;
+    }
+    .nav__moon {
+        display: none;
     }
 }
 
