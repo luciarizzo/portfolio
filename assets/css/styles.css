@@ -555,7 +555,7 @@ body.dark-theme {
     }
     .home__img {
         width: 457px;
-        bottom: 15%;
+        bottom: 10%;
     }
     .about__container {
         grid-template-columns: repeat(2, 1fr);
