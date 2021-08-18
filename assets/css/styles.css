@@ -497,9 +497,9 @@ img {
 /* DARK LIGHT THEME */
 
 body.dark-theme {
-    --first-color: #364C33;
+    --first-color: #5A8055;
     --second-color: #DCC0DA;
-    --bg-color: #000;
+    --bg-color: #49454C;
 }
 
 
